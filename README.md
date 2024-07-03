@@ -11,10 +11,12 @@ Navigate through the app effortlessly using simple taps. The Home screen showcas
 
 Your shopping cart items are securely stored using AsyncStorage, a local storage solution in React Native. This means your cart contents are saved even if you close the app. You can add, remove, and view items in your cart at any time, ensuring a seamless shopping experience.
 
-### Screenshots
+### Screenshot
 
-![Home Screen](screenshot/Shot1.jpg)
-![Cart Screen](screenshot/shot2.jpg)
+![Shot1](https://github.com/PixBlezz/rn-assignment6-11134121/assets/148706507/03283ac0-f3b1-4a52-9137-f2a8ea604add)
+
+
+![shot2](https://github.com/PixBlezz/rn-assignment6-11134121/assets/148706507/e6af8b5a-3a3a-43bd-a57c-5cd2cb041c0b)
 
 ### How It Works
 
